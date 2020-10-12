@@ -1,6 +1,5 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-@import "https://fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:300,400|Pacifico";
 
 /*
 	Intensify by TEMPLATED
@@ -1615,7 +1614,7 @@
 
 	body, input, select, textarea {
 		color: #767d85;
-		font-family: "Open Sans", Arial, Helvetica, sans-serif;
+		font-family: Gill Sans, Gill Sans MT, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -1685,8 +1684,8 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #727a82;
-		font-weight: 700;
-		font-family: "Montserrat", sans-serif;
+		font-weight: 400;
+		font-family: Gill Sans, Gill Sans MT, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
@@ -2402,7 +2401,7 @@
 		color: #ffffff;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Montserrat", sans-serif;
+		font-family: Gill Sans, Gill Sans MT, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 		height: 3.5em;
 		line-height: 3.5em;
 		padding: 0 3.5em;
