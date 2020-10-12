@@ -2825,6 +2825,14 @@ background: url(myriad_logo_sm.png);
 				#menu > ul.links > li {
 					padding: 0;
 				}
+				
+				#menu ul li {-moz-transition: color 0.2s ease-in-out;
+			-webkit-transition: color 0.2s ease-in-out;
+			-ms-transition: color 0.2s ease-in-out;
+			transition: color 0.2s ease-in-out;
+			-webkit-tap-highlight-color: transparent;}
+				
+				#menu ul li:hover {color: #f6755e;}
 
 					#menu > ul.links > li > a:not(.button) {
 						border: 0;
@@ -2856,7 +2864,7 @@ background: url(myriad_logo_sm.png);
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #a7d9e7;
+			color: #fff;
 			cursor: pointer;
 			display: block;
 			height: 3.25em;
@@ -2885,7 +2893,7 @@ background: url(myriad_logo_sm.png);
 			}
 
 			#menu .close:hover {
-				color: #ffffff;
+				color: #f6755e;
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3141,7 +3149,7 @@ background: url(myriad_logo_sm.png);
 
 	#footer {
 		padding: 6em 0 4em 0;
-		background: #25a2c3;
+		background: #b63315;
 		text-align: center;
 		color: #c8e7f0;
 	}
