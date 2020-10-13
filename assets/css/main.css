@@ -2932,12 +2932,12 @@ background: url(myriad_logo_sm.png);
 /* Banner */
 
 	#banner {
-		padding: 14em 0 12em 0;
+		padding: 20em 0 5em 5em;
 		background-image: url(../../images/myriad_comic_cover_x01.jpg);
 		background-size: cover;
 		background-position: center top;
 		background-repeat: no-repeat;
-		text-align: center;
+		text-align: left;
 	}
 
 		#banner .content {
@@ -2952,19 +2952,21 @@ background: url(myriad_logo_sm.png);
 			font-size: 3em;
 			color: #fff;
 			line-height: 1em;
-			margin: 0 0 0.5em 0;
+			margin: 0 0 0.25em 0;
 			padding: 0;
 		}
 
 		#banner p {
 			font-size: 1.25em;
-			margin-bottom: 1.75em;
+			font-weight: 400;
+			color: #fff;
+			margin-bottom: 1.25em;
 		}
 
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 12em 0 10em 0;
+				padding: 16em 0 6em 5em;
 			}
 
 		}
@@ -2972,7 +2974,7 @@ background: url(myriad_logo_sm.png);
 		@media screen and (max-width: 980px) {
 
 			#banner {
-				padding: 8em 6em 6em 6em;
+				padding: 10em 6em 4em 6em;
 			}
 
 				#banner br {
@@ -2989,6 +2991,7 @@ background: url(myriad_logo_sm.png);
 
 			#banner {
 				padding: 6em 4em 4em 4em;
+				text-align: center;
 			}
 
 		}
@@ -2997,6 +3000,7 @@ background: url(myriad_logo_sm.png);
 
 			#banner {
 				padding: 4em 2em 2em 2em;
+				text-align: center;
 			}
 
 				#banner h1 {
