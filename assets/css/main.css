@@ -1568,7 +1568,7 @@
 	}
 
 	body {
-		background: #fff;
+		background: #FFF;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1662,7 +1662,7 @@
 		}
 
 	a {
-		color: #25a2c3;
+		color: #b63315;
 		text-decoration: underline;
 	}
 
@@ -1684,7 +1684,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #727a82;
+		color: #b63315;
 		font-weight: 400;
 		font-family: Gill Sans, Gill Sans MT, Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 		line-height: 1.5;
@@ -2626,7 +2626,7 @@
 	}
 
 		.wrapper h1, .wrapper h2, .wrapper h3, .wrapper h4, .wrapper h5 {
-			color: #25a2c3;
+			color: #b63315;
 		}
 
 		.wrapper.style1 {
@@ -2669,7 +2669,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background: #fff;
+		background: #FFF;
 		cursor: default;
 		height: 6em;
 		left: 0;
@@ -2723,7 +2723,7 @@ margin-top: 0px;
 					text-decoration: none;
 					-webkit-tap-highlight-color: transparent;
 					font-size: 2em;
-					color: #dee1e3;
+					color: #a9a9a9;
 					z-index: 10005;
 				}
 
@@ -2950,7 +2950,7 @@ background: url(myriad_logo_sm.png);
 
 		#banner h1 {
 			font-size: 3em;
-			color: #fff;
+			color: #FFFAF0;
 			line-height: 1em;
 			margin: 0 0 0.25em 0;
 			padding: 0;
@@ -2959,7 +2959,7 @@ background: url(myriad_logo_sm.png);
 		#banner p {
 			font-size: 1.25em;
 			font-weight: 400;
-			color: #fff;
+			color: #FFFAF0;
 			margin-bottom: 1.25em;
 		}
 
@@ -3155,19 +3155,19 @@ background: url(myriad_logo_sm.png);
 		padding: 6em 0 4em 0;
 		background: #b63315;
 		text-align: center;
-		color: #c8e7f0;
+		color: #FFFAF0;
 	}
 
 		#footer h2 {
-			color: #fff;
+			color: #FFFAF0;
 		}
 
 		#footer .icon {
-			color: #f6755e;
+			color: #FFFAF0;
 		}
 
 		#footer a {
-			color: #c8e7f0;
+			color: #F8F4E3;
 			text-decoration: none;
 		}
 
@@ -3177,7 +3177,7 @@ background: url(myriad_logo_sm.png);
 
 		#footer .copyright {
 			display: inline-block;
-			color: #a7d9e7;
+			color: #FFFAF0;
 			font-size: 0.75em;
 			margin: 0 0 2em 0;
 			padding: 0;
